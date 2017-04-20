@@ -1,0 +1,12 @@
+body {
+	background-image: url(../Images/dash.jpg);
+	background-repeat: no-repeat;
+}
+.navbar-brand {
+	margin-top: -12px;
+}
+.navbar-default{
+  background:transparent;
+  border-color:transparent;
+  box-shadow:none;
+}
